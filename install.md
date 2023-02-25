@@ -6,10 +6,10 @@ Azure Cognitive Services: pip install azure-cognitiveservices-vision-computervis
 Pygame: pip install pygame
 Pillow: pip install Pillow
 Matplotlib: pip install matplotlib
-Espeak: pip install eSpeak
+Espeak: sudo apt install espeak
 Ms rest: pip msrest.authentication
 
-Or install it on a single command: pip install azure.cognitiveservices.vision.computervision msrest matplotlib Pillow
+Or install it on a single command: pip install azure.cognitiveservices.vision.computervision msrest matplotlib Pillow pygame 
 
 Sign up for Azure Cognitive Services: To use Azure Cognitive Services, you need to sign up for an account and create a new Computer Vision resource. Follow the instructions on the Azure Cognitive Services website: https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
 

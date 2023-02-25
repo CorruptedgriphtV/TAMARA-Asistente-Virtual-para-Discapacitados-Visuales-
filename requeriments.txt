@@ -1,0 +1,5 @@
+azure.cognitiveservices.vision.computervision
+msrest.authentication
+matplotlib
+Pillow
+pygame
