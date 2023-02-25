@@ -26,7 +26,7 @@ Este proyecto es de código abierto y se aceptan contribuciones de cualquier tip
 
 ## Créditos 
 
-Este proyecto fue desarrollado por [nombre del desarrollador o equipo] y se basó en tecnologías y herramientas de código abierto, como GPT-3 y la inteligencia artificial de visión por computadora. Agradecemos a la comunidad de código abierto por sus contribuciones a estas tecnologías.
+Este proyecto fue desarrollado por Emilio Estefan Arredondo Hinostrosa y se basó en tecnologías y herramientas de código abierto, como GPT-3 y la inteligencia artificial de visión por computadora. Agradecemos a la comunidad de código abierto por sus contribuciones a estas tecnologías.
 
 ## Licencias
 
