@@ -30,7 +30,6 @@ print()
 
 print('Tags:')
 for tag in analyze_result.tags:
-    print(tag.name)
 print()
 
 print('Description:')
